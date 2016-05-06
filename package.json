@@ -1,0 +1,16 @@
+{
+  "name": "lock-monitor",
+  "version": "0.0.1",
+  "description": "Monitor concourse locks",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo 'This be a hackday, we\\'ll have no testing here'"
+  },
+  "author": "Henry & Simon & Tom & Jon",
+  "license": "ISC",
+  "dependencies": {
+    "node-dir": "^0.1.12",
+    "nodegit": "^0.13.0"
+  }
+}
